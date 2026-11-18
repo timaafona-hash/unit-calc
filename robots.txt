@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://timaafona-hash.github.io/unit-calc/sitemap.xml
